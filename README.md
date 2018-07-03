@@ -1,17 +1,20 @@
-# -
-开发和设计资源大全
+# -开发和设计资源大全
+
 Java 资源大全
 
 Java资源大全中文版，包括：构建工具、字节码操作、集群管理、代码分析、编译器生成工具、外部配置工具、持续集成、数据结构、数据库、时间日期工具库、依赖注入、开发流程增强工具、分布式应用、分布式数据库、文档处理工具、函数式编程、游戏开发、GUI、高性能计算、IDE、图像处理、JSON、JVM与JDK、日志、机器学习、消息传递、应用监控工具、自然语言处理等。
 
 GitHub 主页：https://github.com/jobbole/awesome-java-cn 
+
 单个资源的详细介绍，发布在这里：http://hao.jobbole.com/?catid=32
+
 
 Python 资源大全
 
 Python 资源大全中文版，包括：环境管理、包管理、构建工具、分发、Web框架、网络爬虫、模板引擎、数据库、数据可视化、图像处理、文本处理、自然语言处理、配置、命令行工具、地理位置、CMS、缓存、数据验证、反垃圾、GUI、游戏开发等。
 
 GitHub 主页： https://github.com/jobbole/awesome-python-cn
+
 单个资源的详细介绍，发布在这里：http://hao.jobbole.com/?catid=144
  
 
@@ -20,6 +23,7 @@ JavaScript 资源大全
 JavaScript 资源大全中文版，内容包括：包管理器、打包工具、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、编辑器、函数式编程、响应式编程、数据结构、存储、国际化和本地化、日志、正则表达式、视觉检测、代码高亮、加载状态、验证、幻灯片、滑块控件、表单组件、框架、地图、视频/音频、动画、图片处理等。
 
 GitHub 主页： https://github.com/jobbole/awesome-javascript-cn
+
 单个资源的详细介绍，发布在这里：http://hao.jobbole.com/?catid=67
  
 
